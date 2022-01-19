@@ -23,3 +23,6 @@ http://www.mp58.net/pyidecn.html
 1.  不需要单独再去下载python进行复杂的环境配置
 2.  高度集成的python3开发环境
 3.  纯中文界面，中文提示
+
+
+![pythonide下载页大图](https://user-images.githubusercontent.com/47958404/150096568-b1f95965-3ea9-4b58-8159-ad6d1953543c.png)
