@@ -26,3 +26,6 @@ http://www.mp58.net/pyidecn.html
 
 
 ![pythonide下载页大图](https://user-images.githubusercontent.com/47958404/150096568-b1f95965-3ea9-4b58-8159-ad6d1953543c.png)
+
+
+![weixin qq](https://user-images.githubusercontent.com/47958404/150746984-5b7b1b29-f95a-45b7-99bb-4bc630f46356.png)
