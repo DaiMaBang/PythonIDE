@@ -17,6 +17,8 @@ http://www.mp58.net/pyidecn.html
 
 链接: https://pan.baidu.com/s/1rqCcBv6pwB_DVBeAf2ohdQ 提取码: nu83 
 
+官网地址
+http://www.mp58.net
 
 #### 优点
 
